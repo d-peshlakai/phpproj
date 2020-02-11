@@ -7,6 +7,9 @@
   <meta name="author" content="">
 
 <title>PHP project-testing</title>
+
+<!-- Bootstrap core CSS -->
+<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 <!-- Font Awesome Icons -->
  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
 
@@ -49,5 +52,16 @@
      //testing testing
      //testing
 ?>
+<!-- Bootstrap core JavaScript -->
+ <script src="vendor/jquery/jquery.min.js"></script>
+ <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+ <!-- Plugin JavaScript -->
+ <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+ <!-- Custom scripts for this template -->
+ <script src="js/grayscale.min.js"></script>
+
+
 </body>
 </html>

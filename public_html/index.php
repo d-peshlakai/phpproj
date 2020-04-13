@@ -64,7 +64,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 mx-auto">
-          <h2 class="text-white mb-4">Login Page</h2>
+          <h2 class="text-white mb-4">Diane Login Page</h2>
           <p class="text-white-50">
             <a href="http://startbootstrap.com/template-overviews/grayscale/">the preview page</a>. The theme is open source, and you can use it for any purpose, personal or commercial.</p>
         </div>

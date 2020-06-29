@@ -69,7 +69,7 @@
             <a href="http://startbootstrap.com/template-overviews/grayscale/">the preview page</a>. The theme is open source, and you can use it for any purpose, personal or commercial.</p>
         </div>
       </div>
-      <img src="img/ipad.png" class="img-fluid" src="assets/img/fogmountains.jpg" alt="">
+      <img src="img/fogmountains.jpg" class="img-fluid" alt="">
     </div>
   </section>
 

@@ -69,11 +69,16 @@
             <a href="http://startbootstrap.com/template-overviews/grayscale/">the preview page</a>. The theme is open source, and you can use it for any purpose, personal or commercial.</p>
         </div>
       </div>
-      <img src="img/fogmountains.jpg" class="img-fluid" alt="">
+      <img src="img/fogmountains.jpg" class="img-fluid" alt=""/>
     </div>
   </section>
 
+<!--Stone Products -->
+<section id="products" class="products-section text-center">
 
+
+
+</section>
 <?php
 
      //testing testing

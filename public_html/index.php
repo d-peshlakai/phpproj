@@ -76,7 +76,8 @@
 
 <!--Stone Products -->
 <section id="products" class="products-section text-center">
-
+  <div class="">
+  </div>
 
 
 </section>

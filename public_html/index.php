@@ -51,7 +51,7 @@
      <header class="masthead">
        <div class="container d-flex h-100 align-items-center">
          <div class="mx-auto text-center">
-           <h1 class="mx-auto my-0 text-uppercase">Login System></h1>
+           <h1 class="mx-auto my-0 text-uppercase">Login System</h1>
            <h2 class="text-white-50 mx-auto mt-2 mb-5">A free, responsive, one page Bootstrap theme created by Start Bootstrap.</h2>
            <a href="#about" class="btn btn-primary js-scroll-trigger">Get Started</a>
          </div>
@@ -66,10 +66,11 @@
         <div class="col-lg-8 mx-auto">
           <h2 class="text-white mb-4">Diane Login Page</h2>
           <p class="text-white-50">
-            <a href="http://startbootstrap.com/template-overviews/grayscale/">the preview page</a>. The theme is open source, and you can use it for any purpose, personal or commercial.</p>
+            <a href="http://startbootstrap.com/template-overviews/grayscale/">the preview page</a>.
+             The theme is open source, and you can use it for any purpose, personal or commercial.</p>
         </div>
       </div>
-      <img src="img/fogmountains.jpg" class="img-fluid" alt=""/>
+      <img src="websites/img/fogmountains.jpg" class="img-fluid" alt=""/>
     </div>
   </section>
 

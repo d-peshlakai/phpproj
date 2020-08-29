@@ -10,3 +10,7 @@
   background-attachment: scroll;
   background-size: cover;
 }
+
+#mainNav {
+  background-color: transparent;
+}

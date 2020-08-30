@@ -4,7 +4,7 @@
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: url("../img/fogmountains.jpg");
+  background: url("..websites/img/fogmountains.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -15,6 +15,6 @@
   background-color: transparent;
 }
 
-body {
-color: black;   
+#top-page {
+  background-color: black;
 }

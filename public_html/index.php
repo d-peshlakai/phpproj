@@ -86,6 +86,11 @@
      //testing testing
      //testing
 ?>
+<!--Footer ------->
+<footer class="footer bg-black small text-center text-white-50">
+  <div class="container">Copyright © DP website 2020</div>
+</footer>
+
 <!-- Bootstrap core JavaScript -->
 
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>

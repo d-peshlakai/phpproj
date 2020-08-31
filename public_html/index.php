@@ -19,7 +19,8 @@
  <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet"/>
 
  <!-- Theme CSS - Includes Bootstrap -->
- <link href="websites/css/stylesheet.css" rel="stylesheet"/>
+ <link href="css/stylesheet.css" rel="stylesheet"/>
+ 
 </head>
 <body id="top-page">
 

@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en-US">
 <head>
 <meta charset="utf-8"/>
@@ -48,7 +48,7 @@
    </nav>
 
    <!-- Header -->
-     <header class="masthead">
+     <header class="masterhead">
        <div class="container d-flex h-100 align-items-center">
          <div class="mx-auto text-center">
            <h1 class="mx-auto my-0 text-uppercase">Login System</h1>

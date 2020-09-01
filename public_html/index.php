@@ -12,7 +12,6 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous"/>
 <!-- Font Awesome Icons -->
  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css"/>
-
  <!-- Google Fonts -->
 
  <!-- Plugin CSS -->
@@ -20,7 +19,6 @@
 
  <!-- Theme CSS - Includes Bootstrap -->
  <link href="css/stylesheet.css" rel="stylesheet"/>
- 
 </head>
 <body id="top-page">
 

@@ -7,9 +7,11 @@
   <meta name="author" content=""/>
 
 <title>PHP project-testing</title>
+<link rel="icon" type="image/x-icon" href="assets/img/favicon.ico"/>
 
 <!-- Bootstrap core CSS -->
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous"/>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
 <!-- Font Awesome Icons -->
  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css"/>
  <!-- Google Fonts -->
@@ -18,7 +20,7 @@
  <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet"/>
 
  <!-- Theme CSS - Includes Bootstrap -->
- <link href="css/stylesheet.css" rel="stylesheet"/>
+ <link href="css/stylesheet.css" rel="stylesheet">
 </head>
 <body id="top-page">
 
@@ -69,7 +71,6 @@
              The theme is open source, and you can use it for any purpose, personal or commercial.</p>
         </div>
       </div>
-      <img src="websites/img/fogmountains.jpg" class="img-fluid" alt=""/>
     </div>
   </section>
 
@@ -80,11 +81,7 @@
 
 
 </section>
-<?php
 
-     //testing testing
-     //testing
-?>
 <!--Footer ------->
 <footer class="footer bg-black small text-center text-white-50">
   <div class="container">Copyright © DP website 2020</div>
